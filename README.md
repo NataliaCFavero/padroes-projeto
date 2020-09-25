@@ -1,10 +1,9 @@
 # padroes-projeto
 Este projeto tem como objetivo colocar em prática os padrões de projeto
- que estão sendo estudados ao longo desse tempo de isolamento que a pandemia (COVID-19) de 2020  
- está causando.
- Não esqueça de conferir os teste para ver modo de uso do padrão.
+ que estão sendo estudados ao longo desse tempo de isolamento que a pandemia (COVID-19) de 2020 está causando.
+ Os testes representam o modo de uso de cada padrão.
   
-  Lembrando que cada projeto vai ter sua adaptação do Pattern dependendo da sua necessidade.
+ Lembre-se cada projeto terá sua adaptação do Pattern dependendo da sua necessidade.
 ## Strategy
 #### Classificação
  > Comportamental

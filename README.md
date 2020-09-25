@@ -11,7 +11,7 @@ Este projeto tem como objetivo colocar em prática os padrões de projeto
  > Permitir que o algoritmo mude independente do cliente que está fazendo seu uso;
 > Ajudar a diminuir ou remover lógicas condicionais; Permitir que um algoritmo seja substituído 
 >por outro em tempo de execução.
-#### O dilema
+#### 'Problema'
 ```js
 public Double calcularTarfifa(String tipoPagamento, Double valorTotal) {
         if (tipoPagamento.equals("CARTAO_DEBITO")) {
